@@ -8,10 +8,6 @@
 
 Use [replace-ext](https://github.com/wearefractal/replace-ext)
 
-#### Errors
-
-Use [BetterError](https://github.com/contra/BetterError) when it is finished
-
 #### String colors
 
 Use [chalk](https://github.com/sindresorhus/chalk)
